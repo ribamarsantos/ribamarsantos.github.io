@@ -1,5 +1,7 @@
-.App {
+body {
   text-align: center;
+  background-image: url('./assets/back.jpeg');
+  background-size: cover;
 }
 
 .App-logo {
@@ -20,6 +22,10 @@
 
 .App-intro {
   font-size: large;
+}
+
+.title {
+  background-color: aliceblue;
 }
 
 @keyframes App-logo-spin {
